@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mojicraft",
+  "name": "Mojicraft",
+  "description": "Emojis in Minecraft!",
+  "version": "1.0",
+  "mcversion": "[1.10.2]",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Pheran"],
+  "credits": "Thank you MrCrayfish for the mod tutorials!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
