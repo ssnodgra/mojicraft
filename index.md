@@ -1,4 +1,4 @@
-This is an index test.  This is onlhy a test.
+This is an index test.  This is only a test.
 
 Testing 1 2 3
 
